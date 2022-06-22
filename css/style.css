@@ -30,6 +30,8 @@
 
 /* bicicleta */
 @import "./bike/bicicletas.css";
-
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
+
+/* orçamento */
+@import "./orcamento/orcamento.css";
